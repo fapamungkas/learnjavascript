@@ -9,8 +9,9 @@ const template2 = `Nama : ${name}, Lulus: ${value > 70}`;
 console.info(template);
 console.info(template2);
 
-const multiline = `
-Nama saya adalah Fajr Aji Pamungkas,
+//Multiline string
+let multiline = `
+Nama saya adalah Fajar Aji Pamungkas,
 Hello World,
 Test,
 `;
